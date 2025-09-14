@@ -11,3 +11,5 @@ The page highlights **Cristiano Ronaldo's life, career, and achievements**, styl
 - **Google Fonts** – typography (Poppins)  
 
 ---
+
+Built with ❤️ while learning web development
